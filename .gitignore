@@ -12,8 +12,6 @@
 *.pdb
 
 # Environment files
-.env
-.env.local
 
 # OS files
 .DS_Store
@@ -23,3 +21,5 @@ Thumbs.db
 
 docs/DATA_AVAILABILITY.md
 AVS-Guide.md
+config.bat
+node_modules
